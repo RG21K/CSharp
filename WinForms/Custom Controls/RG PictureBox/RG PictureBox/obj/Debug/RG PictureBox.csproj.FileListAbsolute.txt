@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.exe.config
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.exe
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.pdb
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Form1.resources
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.exe
+C:\Users\rg21k\source\repos\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\bin\Debug\RG PictureBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG_PictureBox.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG PictureBox\RG PictureBox\obj\Debug\RG PictureBox.pdb
