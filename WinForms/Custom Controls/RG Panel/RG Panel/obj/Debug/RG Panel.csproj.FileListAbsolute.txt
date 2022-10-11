@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\bin\Debug\RG Panel.exe.config
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\bin\Debug\RG Panel.exe
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\bin\Debug\RG Panel.pdb
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG_Panel.Form1.resources
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG_Panel.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.exe
+C:\Users\rg21k\source\repos\RG Panel\RG Panel\obj\Debug\RG Panel.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\bin\Debug\RG Panel.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\bin\Debug\RG Panel.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\bin\Debug\RG Panel.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG_Panel.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG_Panel.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG Panel.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Panel\RG Panel\obj\Debug\RG Panel.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\bin\Debug\RG Panel.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG_Panel.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG_Panel.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\bin\Debug\RG Panel.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\bin\Debug\RG Panel.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Panel\RG Panel\obj\Debug\RG Panel.exe
