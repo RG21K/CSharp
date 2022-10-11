@@ -1,0 +1,11 @@
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\bin\Debug\RG Knob.exe.config
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\bin\Debug\RG Knob.exe
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\bin\Debug\RG Knob.pdb
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG_Knob.Form1.resources
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG_Knob.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.exe
+C:\Users\rg21k\source\repos\RG Knob\RG Knob\obj\Debug\RG Knob.pdb
