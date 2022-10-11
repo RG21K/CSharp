@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.exe.config
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.exe
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.pdb
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Form1.resources
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.exe
+C:\Users\rg21k\source\repos\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.dll
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG_TrackBar.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\bin\Debug\RG TrackBar.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TrackBar\RG TrackBar\obj\Debug\RG TrackBar.exe
