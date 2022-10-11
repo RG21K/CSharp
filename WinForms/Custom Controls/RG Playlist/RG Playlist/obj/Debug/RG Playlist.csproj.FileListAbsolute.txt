@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\bin\Debug\RG Playlist.exe.config
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\bin\Debug\RG Playlist.exe
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\bin\Debug\RG Playlist.pdb
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Form1.resources
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.exe
+C:\Users\rg21k\source\repos\RG Playlist\RG Playlist\obj\Debug\RG Playlist.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\bin\Debug\RG Playlist.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\bin\Debug\RG Playlist.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\bin\Debug\RG Playlist.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG Playlist.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Playlist\RG Playlist\obj\Debug\RG Playlist.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\bin\Debug\RG Playlist.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\bin\Debug\RG Playlist.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\bin\Debug\RG Playlist.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG_Playlist.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Playlist\RG Playlist\obj\Debug\RG Playlist.pdb
