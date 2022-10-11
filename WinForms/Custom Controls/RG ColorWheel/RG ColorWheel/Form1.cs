@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace RG_ColorWheel
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+            ColorWheel_Init();
+        }
+
+        private void ColorWheel_Init()
+        {
+            ColorWheel_SubscribeEvents();
+        }
+
+        private void ColorWheel_SubscribeEvents()
+        {
+            rgColorWheel1.OnSelectedColorChanged += ColorWheel_OnSelectedColorChanged;
+        }
+
+        private void ColorWheel_OnSelectedColorChanged(object sender, Color args)
+        {
+            pnlColorPreview.BackColor = args;
+        }
+    }
+}
