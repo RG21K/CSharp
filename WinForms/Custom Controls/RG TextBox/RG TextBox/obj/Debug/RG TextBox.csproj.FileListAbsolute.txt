@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\bin\Debug\RG TextBox.exe.config
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\bin\Debug\RG TextBox.exe
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\bin\Debug\RG TextBox.pdb
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Form1.resources
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.exe
+C:\Users\rg21k\source\repos\RG TextBox\RG TextBox\obj\Debug\RG TextBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\bin\Debug\RG TextBox.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\bin\Debug\RG TextBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\bin\Debug\RG TextBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG TextBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG TextBox\RG TextBox\obj\Debug\RG TextBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\bin\Debug\RG TextBox.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\bin\Debug\RG TextBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\bin\Debug\RG TextBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG_TextBox.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG TextBox\RG TextBox\obj\Debug\RG TextBox.pdb
