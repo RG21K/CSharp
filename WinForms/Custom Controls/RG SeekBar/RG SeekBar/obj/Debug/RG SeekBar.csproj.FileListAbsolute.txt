@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.exe.config
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.exe
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.pdb
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Form1.resources
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.exe
+C:\Users\rg21k\source\repos\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG_SeekBar.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\bin\Debug\RG SeekBar.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG SeekBar\RG SeekBar\obj\Debug\RG SeekBar.exe
