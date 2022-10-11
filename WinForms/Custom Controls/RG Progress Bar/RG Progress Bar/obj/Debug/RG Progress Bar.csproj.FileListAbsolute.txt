@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.exe.config
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.exe
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.pdb
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Form1.resources
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.exe
+C:\Users\rg21k\source\repos\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\bin\Debug\RG Progress Bar.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG_Progress_Bar.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Progress Bar\RG Progress Bar\obj\Debug\RG Progress Bar.pdb
