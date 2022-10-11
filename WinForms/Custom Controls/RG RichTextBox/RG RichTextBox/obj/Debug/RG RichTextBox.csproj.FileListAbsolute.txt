@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.exe.config
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.exe
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.pdb
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Form1.resources
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.exe
+C:\Users\rg21k\source\repos\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\bin\Debug\RG RichTextBox.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG_RichTextBox.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RichTextBox\RG RichTextBox\obj\Debug\RG RichTextBox.pdb
