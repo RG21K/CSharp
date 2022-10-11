@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.exe.config
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.exe
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.pdb
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Form1.resources
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.exe
+C:\Users\rg21k\source\repos\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\bin\Debug\RG RadioButton.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG_RadioButton.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG RadioButton\RG RadioButton\obj\Debug\RG RadioButton.pdb
