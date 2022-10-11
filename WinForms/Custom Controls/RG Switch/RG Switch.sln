@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RG Switch", "RG Switch\RG Switch.csproj", "{83A1A2B3-0E5C-429E-9251-D220DED8B639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A1A2B3-0E5C-429E-9251-D220DED8B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A1A2B3-0E5C-429E-9251-D220DED8B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A1A2B3-0E5C-429E-9251-D220DED8B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A1A2B3-0E5C-429E-9251-D220DED8B639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186A53C1-85FD-425C-A917-2FCD5EC32612}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\bin\Debug\RG Switch.exe.config
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\bin\Debug\RG Switch.exe
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\bin\Debug\RG Switch.pdb
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG_Switch.Form1.resources
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG_Switch.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.exe
+C:\Users\rg21k\source\repos\RG Switch\RG Switch\obj\Debug\RG Switch.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\bin\Debug\RG Switch.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\bin\Debug\RG Switch.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\bin\Debug\RG Switch.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG_Switch.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG_Switch.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG Switch.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Switch\RG Switch\obj\Debug\RG Switch.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\bin\Debug\RG Switch.exe.config
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\bin\Debug\RG Switch.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\bin\Debug\RG Switch.pdb
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.AssemblyReference.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.SuggestedBindingRedirects.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG_Switch.Form1.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG_Switch.Properties.Resources.resources
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.GenerateResource.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.csproj.CoreCompileInputs.cache
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.exe
+E:\2. Personal\2. Programming\1. Innodisk\1. [C#]\1. [Projects]\[2022]\4. [Custom Controls]\1. Projects\[Modular Controls]\RG Switch\RG Switch\obj\Debug\RG Switch.pdb
