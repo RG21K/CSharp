@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RG ColorWheel", "RG ColorWheel\RG ColorWheel.csproj", "{D5CB2C6E-7174-4F4B-A3AD-A5B185706847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CB2C6E-7174-4F4B-A3AD-A5B185706847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CB2C6E-7174-4F4B-A3AD-A5B185706847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CB2C6E-7174-4F4B-A3AD-A5B185706847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CB2C6E-7174-4F4B-A3AD-A5B185706847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3ABCFD9-7CF0-4E5B-BE95-A12721BD5CD9}
+	EndGlobalSection
+EndGlobal
