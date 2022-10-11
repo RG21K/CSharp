@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RG Button", "RG Button\RG Button.csproj", "{B297745C-3095-4DF3-A284-E1031F39234F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B297745C-3095-4DF3-A284-E1031F39234F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B297745C-3095-4DF3-A284-E1031F39234F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B297745C-3095-4DF3-A284-E1031F39234F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B297745C-3095-4DF3-A284-E1031F39234F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32256593-C58A-4C1F-8F8C-717E739115A1}
+	EndGlobalSection
+EndGlobal

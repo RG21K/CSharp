@@ -1,0 +1,21 @@
+C:\Users\rg21k\source\repos\RG Button\RG Button\bin\Debug\RG Button.exe.config
+C:\Users\rg21k\source\repos\RG Button\RG Button\bin\Debug\RG Button.exe
+C:\Users\rg21k\source\repos\RG Button\RG Button\bin\Debug\RG Button.pdb
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.csproj.AssemblyReference.cache
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG_Button.Form1.resources
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG_Button.Properties.Resources.resources
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.csproj.GenerateResource.cache
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.exe
+C:\Users\rg21k\source\repos\RG Button\RG Button\obj\Debug\RG Button.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\bin\Debug\RG Button.dll.config
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\bin\Debug\RG Button.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\bin\Debug\RG Button.pdb
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG Button.csproj.AssemblyReference.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG_Button.Form1.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG_Button.Properties.Resources.resources
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG Button.csproj.GenerateResource.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG Button.csproj.CoreCompileInputs.cache
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG Button.dll
+C:\Users\rg21k\OneDrive\Desktop\Custom Controls\RG Button\RG Button\obj\Debug\RG Button.pdb
