@@ -294,7 +294,7 @@ namespace RG_ColorWheel.Controls
         }
 
         /// <summary> Fill the Wheel with Colors. </summary>
-        private void FillColors(PaintEventArgs e) // This is a Static Drawing. Should NOT use PaintEventArgs (Paint Event)
+        private void FillColors(PaintEventArgs e)
         {
             float nrPoints = (GetColorWheelPath().PointCount - 1) / 6;
             Color[] _surroundingColors = new Color[GetColorWheelPath().PointCount];
@@ -319,7 +319,7 @@ namespace RG_ColorWheel.Controls
 
         /// <summary> Draw a Boarder Around the Color Wheel. </summary>
         /// <param name="_gfx"></param>
-        private void DrawBorder(PaintEventArgs e) // Does NOT Work Well with PaintEventArgs (OnPaint Event). This is a Static Draw.
+        private void DrawBorder(PaintEventArgs e)
         {
             if (colorWheelBorderEnabled)
             {
@@ -404,15 +404,6 @@ namespace RG_ColorWheel.Controls
 
                         e.Graphics.DrawPath(_pen, GetColorSelectionEllipsePath());
                     }
-
-                    // Previous
-                    //Graphics _gfx = e.Graphics;
-
-                    //using (Pen _pen = new Pen(selectionEllipseBorderColor, selectionEllipseThickness))
-                    //{
-                    //    _pen.Color = selectionEllipseBorderColor;
-                    //    _gfx.DrawPath(_pen, GetColorSelectionEllipsePath());
-                    //}
                 }
             }
         }
